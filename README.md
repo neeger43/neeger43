@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neeger43
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning html css
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 
